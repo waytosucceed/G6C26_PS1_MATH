@@ -1,0 +1,124 @@
+{
+  "heading": "Experimental Probability VS Theoretical Probability",
+  "topics": [
+    {
+      "heading": "Experimental Probability VS Theoretical Probability",
+      "questions": [
+  {
+    "questionNo": 1,
+    "question": "Lucas watched 60 cars go by. 18 were black. What’s the experimental probability that the next car will be black?",
+    "options": [
+      { "text": "0.2" },
+      { "text": "0.3" },
+      { "text": "0.25" },
+      { "text": "0.4" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 2,
+    "question": "In an experiment, Zara picks a marble from a bag 60 times and records the color each time. What is the experimental probability of selecting a green or blue marble?",
+    "options": [
+      { "text": "0.2" },
+      { "text": "0.4" },
+      { "text": "0.6" },
+      { "text": "0.8" }
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/3.png"
+  },
+  {
+    "questionNo": 3,
+    "question": "Nina has 8 tokens. She picks them 400 times. Estimate how many of the 8 tokens are yellow.",
+    "options": [
+      { "text": "2" },
+      { "text": "4" },
+      { "text": "5" },
+      { "text": "6" }
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/1.png"
+  },
+  {
+    "questionNo": 4,
+    "question": "Leo has 10 counters. He picks the counters 500 times. Estimate how many of 10 are red.",
+    "options": [
+      { "text": "3" },
+      { "text": "4" },
+      { "text": "5" },
+      { "text": "6" }
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/2.png"
+  },
+  {
+    "questionNo": 5,
+    "question": "A 6-sided die is rolled 24 times. “4” comes up 6 times. What is the experimental probability of 4?",
+    "options": [
+      { "text": "0.25" },
+      { "text": "0.167" },
+      { "text": "0.20" },
+      { "text": "0.30" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 6,
+    "question": "A fair die is expected to roll a “2” with probability 1/6. If you get “2” 4 times out of 18 rolls, which is more?",
+    "options": [
+      { "text": "Experimental" },
+      { "text": "Theoretical" },
+      { "text": "Both same" },
+      { "text": "Cannot compare" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 7,
+    "question": "A jar has 4 blue, 3 red, and 3 green balls. Mia pulls out a ball 40 times (with replacement). She gets red 8 times. What is the difference between theoretical and experimental probability of red?",
+    "options": [
+      { "text": "0" },
+      { "text": "0.05" },
+      { "text": "0.5" },
+      { "text": "0.2" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 8,
+    "question": "Which is the experimental probability?",
+    "options": [
+      { "text": "Saying a coin has 50% chance of heads" },
+      { "text": "Knowing the chance of drawing a red ball from 5 red and 5 blue balls" },
+      { "text": "Predicting the result of a die roll" },
+      { "text": "Counting how many times heads came in 100 tosses" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 9,
+    "question": "Spinner has 3 equal parts (red, yellow, blue). Theo spins it 60 times and gets red 10 times. Which is more: theoretical or experimental probability of red?",
+    "options": [
+      { "text": "Theoretical" },
+      { "text": "Experimental" },
+      { "text": "Equal" },
+      { "text": "Can’t compare" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 10,
+    "question": "A deck has 20 cards: 10 blue, 10 green. Liam draws (with replacement) 50 times and gets blue 30 times. Which probability is higher?",
+    "options": [
+      { "text": "Theoretical" },
+      { "text": "Experimental" },
+      { "text": "Equal" },
+      { "text": "Can’t say" }
+    ],
+    "answer": 1
+  }
+]
+
+    }
+  ]
+}
